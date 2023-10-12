@@ -15,7 +15,10 @@ This Program can be used in any Online Browser/Application Based Meeting to capt
 - Run the Program , Start/Stop the meeting recording via GUI shown Below<br>
 <img width="151" alt="image" src="https://github.com/adithyanraj03/Summarize_NLP/assets/39313793/d1f35ca0-fda9-4daa-a31c-fd756e07a609"><br>
 - Then update the Google fourm with the meeting participants mails by sharing it to them
-- Finally the program sends the Summarized Data and Minutes to the recipents of the Meetings. 
+- Finally the program sends the Summarized Data and Minutes to the recipents of the Meetings. <br>
+<img width="530" alt="image" src="https://github.com/adithyanraj03/Summarize_NLP/assets/39313793/43f81f02-483d-43d2-93e7-bf3925bedf37">
+<br><img width="1178" alt="image" src="https://github.com/adithyanraj03/Summarize_NLP/assets/39313793/9e75d930-753f-4d63-b5d5-27da7b4f1952">
+<br>
 
 ## Installation
 
