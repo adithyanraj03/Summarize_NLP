@@ -33,5 +33,5 @@ You can install the project using pip and the provided `requirements.txt` file.
 pip install -r requirements.txt
 ```
 ## Contribution
-- Adithya N Raj {Mail Fetch(./mail.py)
-- , Record/Capture Audio (./capture.py)
+- Adithya N Raj
+- Giridhar Prakash
