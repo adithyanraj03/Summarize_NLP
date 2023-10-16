@@ -12,4 +12,5 @@ transformers[flax]
 ffmpeg-python
 openpyxl
 git+https://github.com/openai/whisper.git
-
+soundcard
+soundfile
