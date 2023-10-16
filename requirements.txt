@@ -1,0 +1,15 @@
+pandas==2.1.1
+future==0.18.3
+sounddevice==0.4.6
+PyAudio==0.2.13
+pydub==0.25.1
+nltk==3.8.1
+soundcard==0.4.2
+soundfile==0.12.1
+transformers[torch]
+transformers[tf-cpu]
+transformers[flax]
+ffmpeg-python
+openpyxl
+git+https://github.com/openai/whisper.git
+
