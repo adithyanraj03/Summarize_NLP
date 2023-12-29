@@ -1,6 +1,6 @@
 # Summarize_NLP
 
-This Program can be used in any Online Browser/Application Based Meeting to capture the Meeting communication and convert it into a summarised form of the important details from the meeting and Send it to the participants at the end of the meeting via mail. The mails of the participants are fetched by the program from a synced xcel , Google Spreadsheet and Google Fourm. 
+This Program can be used in any Online Browser/Application Based Meeting to capture the Meeting communication and convert it into a summarised form of the important details from the meeting and Send it to the participants at the end of the meeting via mail. The mails of the participants are fetched by the program from a synced xcel , Google Spreadsheet and Google Fourm. And also resend the mail to new people.
 <br>
 
 ![P2](https://github.com/adithyanraj03/Summarize/assets/39313793/065c3eff-e80f-4eea-979a-429dd2cf943d)
